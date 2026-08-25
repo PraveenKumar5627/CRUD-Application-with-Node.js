@@ -2,26 +2,26 @@
   {
     "id": 1,
     "name": "Praveen",
-    "city": "Chennai",
-    "age": 19
+    "city": "Coimbatore",
+    "age": "19"
   },
   {
     "id": 2,
-    "name": "Arun",
-    "city": "Madurai",
-    "age": 20
+    "name": "Praba",
+    "city": "Coimbatore",
+    "age": "20"
   },
   {
     "id": 3,
     "name": "Karthik",
-    "city": "Coimbatore",
-    "age": 21
+    "city": "Chennai",
+    "age": "13"
   },
   {
     "id": 4,
-    "name": "Rahul",
-    "city": "Salem",
-    "age": 22
+    "name": "Karthik Kumar",
+    "city": "Coimbatore",
+    "age": "45"
   },
   {
     "id": 5,
@@ -29,7 +29,6 @@
     "city": "Trichy",
     "age": 20
   },
-  
   {
     "id": 6,
     "name": "Sanjay",
@@ -90,5 +89,4 @@
     "city": "Karur",
     "age": 20
   }
-
 ]
